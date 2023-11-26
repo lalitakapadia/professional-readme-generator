@@ -83,7 +83,7 @@ const questions = [
     },
     {
         type: "input",
-        name: "contributing",
+        name: "contribution",
         message: "What are the contribution guidelines?",
         validate: input => {
             if (input) {
@@ -151,7 +151,7 @@ function writeToFile(fileName, data) {
 // TODO: Create a function to initialize app
 function init() {
     inquirer.prompt(questions).then(data => {
-        writeToFile("README.md", generateMarkdown(data));
+        writeToFile("generatedREADME.md", generateMarkdown(data));
     });
 }
 
