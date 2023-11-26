@@ -3,7 +3,7 @@ const inquirer = require("inquirer");
 
 const fs = require("fs");
 
-const generateMarkdown = require("./utils/generateMarkdown.js");
+const generateMarkdown = require("./generateMarkdown.js");
 // TODO: Create an array of questions for user input
 const questions = [
     {
@@ -72,14 +72,14 @@ const questions = [
         type: "list",
         name: "license",
         message: "Which license applies to your application?",
-        //choices: [
-        //     "Apache License 2.0",
-        //     "GNU General Public License v3.0",
-        //     "MIT License",
-        //     "Mozilla Public License 2.0",
-        //     "Boost Software License 1.0",
-        //     "The Unlicense"
-        // ]
+        choices: [
+            "Apache License 2.0",
+            "GNU General Public License v3.0",
+            "MIT License",
+            "Mozilla Public License 2.0",
+            "Boost Software License 1.0",
+            "The Unlicense"
+        ]
     },
     {
         type: "input",
