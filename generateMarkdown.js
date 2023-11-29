@@ -78,8 +78,8 @@ ${data.tests}
 
 
 ## Questions
- for any question, you can email me at: ${data.email}  
- GitHub link [${data.username}](https://github.com/${data.username})
+ Please email your questions at: ${data.email}  
+ GitHub link: [${data.username}](https://github.com/${data.username})
 `;
 }
 

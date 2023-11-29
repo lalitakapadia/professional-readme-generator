@@ -15,14 +15,14 @@
 * [Questions](#questions)
 
 ## Description  
-
+description- A command-line application that generates a professional README file from the user's input using the Inquirer package. A command-line application will allow for a quick and easy generation of a project README to get started quickly. This will allow a project creator to spend more time working on finishing the project and less time creating a good README.
 
 ## Installation
-
+clone this repo to your local computer
 
 
 ## Usage
-
+When the application starts, answer each prompt or leave blank and when all the questions are answered, a file named README will be generated within the local folder.
 
 
 ## License
@@ -34,9 +34,9 @@ undefined
 
 
 ## Tests
-follow commandline
+run the node index.js command in your terminal
 
 
 ## Questions
- for any question, you can email me at: lk  
- GitHub link [lk](https://github.com/lk)
+ Please email your questions at: lk  
+ GitHub link: [github/lalitakapadia](https://github.com/github/lalitakapadia)
