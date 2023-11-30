@@ -23,7 +23,8 @@ WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 
 
-##Decription
+## Decription
+
 This week challenge is create a professional readme using node.js.
 A command-line application that generates a professional README file from the user's input using the Inquirer package. A command-line application will allow for a quick and easy generation of a project README to get started quickly. This will allow a project creator to spend more time working on finishing the project and less time creating a good README.
 Ensure that node.js and npm are installed. The steps to use this appllication:
