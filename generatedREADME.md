@@ -29,7 +29,7 @@ clone the repository, Run npm init, Run npm i inquirer, Run node.index.js
 [Apache License 2.0](https://opensource.org/licenses/Apache-2.0)
 
 
-## Contributing
+## Contribution
 undefined
 
 
@@ -38,5 +38,5 @@ When the application starts, answer each prompt or leave blank and when all the 
 
 
 ## Questions
-[Github](https://github.com/lalitakapadia)
-[Email](mailto:lalita.kapadia@gmail.com)
+### [Github](https://github.com/lalitakapadia)
+### [Email](mailto:lalita.kapadia@gmail.com)

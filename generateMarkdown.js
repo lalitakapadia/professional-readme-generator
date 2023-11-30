@@ -69,7 +69,7 @@ ${data.usage}
 ${licenseLink}
 
 
-## Contributing
+## Contribution
 ${data.contributing}
 
 
@@ -78,8 +78,8 @@ ${data.tests}
 
 
 ## Questions
-[Github](https://github.com/${data.username})
-[Email](mailto:${data.email})
+### [Github: ${data.username}](https://github.com/${data.username})
+### [Email: ${data.email}](mailto:${data.email})
 `;
 }
 
