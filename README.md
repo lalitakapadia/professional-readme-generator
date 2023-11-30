@@ -39,5 +39,6 @@ Video link has been provided for users to follow the instructions and generate R
 
 https://lalitakapadia.github.io/professional-readme-generator
 
-![Alt text](professional-readme-generator(1).mp4)
+![Alt text](professional-readme-generator.mp4)
 
+https://drive.google.com/file/d/1Q2iECRjnAjn6vVy0vwwQHcRV54HmdGL5/view?usp=drive_link
