@@ -78,7 +78,7 @@ ${data.tests}
 
 
 ## Questions
- Please email your questions at: ${data.email}  
+please get in touch with me if you have any questions at ${data.email}
  GitHub link: [${data.username}](https://github.com/${data.username})
 `;
 }
