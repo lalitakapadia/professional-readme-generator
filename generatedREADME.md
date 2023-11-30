@@ -1,6 +1,6 @@
  [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-  # professional-readme-generator
+# professional-readme-generator
 
   ## Table of Contents
 * [Github](#Github)
@@ -15,10 +15,10 @@
 * [Questions](#questions)
 
 ## Description  
-description- A command-line application that generates a professional README file from the user's input using the Inquirer package. A command-line application will allow for a quick and easy generation of a project README to get started quickly. This will allow a project creator to spend more time working on finishing the project and less time creating a good README.
+A command-line application that generates a professional README file from the user's input using the Inquirer package. A command-line application will allow for a quick and easy generation of a project README to get started quickly. This will allow a project creator to spend more time working on finishing the project and less time creating a good README.
 
 ## Installation
-clone this repo to your local computer
+Ensure that node.js and npm are installed. The steps to use this appllication:-
 
 
 ## Usage
@@ -34,9 +34,9 @@ undefined
 
 
 ## Tests
-run the node index.js command in your terminal
+clone the repository, Run npm init, Run npm i inquirer, Run node.index.js
 
 
 ## Questions
- Please email your questions at: lk  
+please get in touch with me if you have any questions at lalita.kapadia@gmail.com
  GitHub link: [github/lalitakapadia](https://github.com/github/lalitakapadia)

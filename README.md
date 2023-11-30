@@ -1,4 +1,4 @@
-Professional-readme-generator
+# Professional-readme-generator
 
 ## Acceptance Criteria
 
@@ -21,6 +21,22 @@ WHEN I enter my email address
 THEN this is added to the section of the README entitled Questions, with instructions on how to reach me with additional questions
 WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
-```
 
+
+##Decription
+This week challenge is create a professional readme using node.js.
+A command-line application that generates a professional README file from the user's input using the Inquirer package. A command-line application will allow for a quick and easy generation of a project README to get started quickly. This will allow a project creator to spend more time working on finishing the project and less time creating a good README.
+Ensure that node.js and npm are installed. The steps to use this appllication:
+clone the repository, 
+Run npm init, 
+Run npm i inquirer,
+Run node.index.js,
+When the application starts, answer each prompt or leave blank and when all the questions are answered, a file named 'generatedREADME.md' will be generated within the local folder.
+
+Video link has been provided for users to follow the instructions and generate Readme.md file.
+
+
+https://lalitakapadia.github.io/professional-readme-generator
+
+![Alt text](professional-readme-generator(1).mp4)
 
