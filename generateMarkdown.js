@@ -70,7 +70,7 @@ ${licenseLink}
 
 
 ## Contribution
-${data.contributing}
+${data.contribution}
 
 
 ## Tests
