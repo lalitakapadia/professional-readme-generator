@@ -38,3 +38,5 @@ Video link has been provided for users to follow the instructions and generate R
 
 
 https://drive.google.com/file/d/1Q2iECRjnAjn6vVy0vwwQHcRV54HmdGL5/view?usp=drive_link
+## Sample link of generated readme
+https://github.com/lalitakapadia/professional-readme-generator/blob/main/generatedREADME.md
